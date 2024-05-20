@@ -1,1 +1,0 @@
-bisection code and sheet
